@@ -17,7 +17,7 @@ var bridgeString1 = function() {
 };
 
 var characterEscapes = function() {
-  'I can't think of it right now. I don't have any idea.'
+  // 'I can't think of it right now. I don't have any idea.'
 };
 
 /////////////////// STRING METHODS /////////////////////
