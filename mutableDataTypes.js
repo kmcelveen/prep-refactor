@@ -1,3 +1,5 @@
+'use strict';
+
 //Mutable data types are types that can be changed or overwritten. Such data types are object and arrays
 
 
@@ -20,10 +22,10 @@
 
 // Create a function that creates an object with the key of car and the value of Tesla.
 
-var createCarObject = function(){
+var createCarObject = function () {
   //Code Here
   return;
-}
+};
 
 
 //return the brand of the truck
@@ -56,9 +58,9 @@ var changeObject = function() {
 //return the color yellow 
 var example = function(){
 var obj = {
-  name: 'JS Jack'
-  email: 'reactNative@tga.com'
-  colors: ['blue', 'yellow', 'black'];
+  name: 'JS Jack',
+  email: 'reactNative@tga.com',
+  colors: ['blue', 'yellow', 'black']
 }
   return;
 }
@@ -75,7 +77,7 @@ Array - a list of values
 
 var createArrayOfStrings = function(){
 
-  // return;
+  return;
 };
 
 
